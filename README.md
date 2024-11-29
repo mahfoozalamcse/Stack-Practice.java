@@ -1,2 +1,2 @@
 # Stack-Practice.java
-Practice stack data structure and learn
+Practice stack data structure 
